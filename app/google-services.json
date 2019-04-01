@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "261466501417",
+    "firebase_url": "https://assignments-31295.firebaseio.com",
+    "project_id": "assignments-31295",
+    "storage_bucket": "assignments-31295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261466501417:android:15cd34623b5c934c",
+        "android_client_info": {
+          "package_name": "com.example.android.inclassassignment09_linga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261466501417-c43vhqvg6uviia2g6dppi1ope9knd5do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMODww5MwTJVq2KvNTpOjSLVoUDDoJbLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
